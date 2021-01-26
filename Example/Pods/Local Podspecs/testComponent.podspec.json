@@ -1,0 +1,22 @@
+{
+  "name": "testComponent",
+  "version": "0.1.0",
+  "summary": "A short description of testComponent.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/1296939/testComponent",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1296939": "lromo@iteso.mx"
+  },
+  "source": {
+    "git": "https://github.com/1296939/testComponent.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "testComponent/Classes/**/*"
+}
